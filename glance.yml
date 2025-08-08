@@ -32,20 +32,22 @@ pages:
               - title: YouTube
                 shortcut: "!yt"
                 url: https://www.youtube.com/results?search_query={QUERY} 
-          
+
           - type: group
             widgets:
               - type: hacker-news
               - type: lobsters
 
           - type: videos
+            cache: 1h
             channels:
               - UCXuqSBlHAE6Xw-yeJA0Tunw # Linus Tech Tips
               - UCsBjURrPoezykLs9EqgamOA # Fireship
               - UC8ENHE5xdFSwx71u3fDH5Xw # ThePrimeagen
               - UCbRP3c757lWg9M-U7TyEkXA # Theo - t3.gg
               - UCZ_cuJGBis0vi6U3bWmvDIg # FaceDev
-          
+              - UCR-DXc1voovS8nhAvccRZhg # Jeff Geerling
+
           - type: group
             widgets:
 
