@@ -62,7 +62,11 @@ pages:
                     title: Wu Boy
                   - url: https://www.alexedwards.net/static/feed.rss
                     title: Alex Edwards
-              
+                  - url: https://overreacted.io/rss.xml
+                    title: Dan Abramov
+                  - url: https://www.dzombak.com/blog/rss/
+                    title: Chris Dzombak
+ 
               - type: rss
                 limit: 50
                 collapse-after: 5
