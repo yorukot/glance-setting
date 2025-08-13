@@ -47,6 +47,7 @@ pages:
               - UCbRP3c757lWg9M-U7TyEkXA # Theo - t3.gg
               - UCZ_cuJGBis0vi6U3bWmvDIg # FaceDev
               - UCR-DXc1voovS8nhAvccRZhg # Jeff Geerling
+              - UCQeRaTukNYft1_6AZPACnog # Asmongold TV
 
           - type: group
             widgets:
@@ -68,7 +69,10 @@ pages:
                     title: Dan Abramov
                   - url: https://www.dzombak.com/blog/rss/
                     title: Chris Dzombak
- 
+                  - url: https://davipon.hashnode.dev/rss.xml
+                    title: David Peng
+                  - url: https://pandaychen.github.io/feed.xml
+                    title: 熊喵君
               - type: rss
                 limit: 50
                 collapse-after: 5
